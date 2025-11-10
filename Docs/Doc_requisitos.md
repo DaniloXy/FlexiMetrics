@@ -215,11 +215,3 @@ N/A
 | 1.0    | Gerente | 15/09/2025 |
 
 ---
-
-**Fonte de Referência:**
-Adaptado do modelo de *Visão de Software (Software Vision)* descrito no livro
-*“Managing Software Requirements: A Unified Approach”*, de Dean Leffingwell e Don Widrig.
-
----
-
-Quer que eu adicione um sumário automático (índice) no início para facilitar a navegação no `.md`?
