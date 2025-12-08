@@ -1,4 +1,4 @@
-Aqui está o documento formatado corretamente em **Markdown (.md)**, com cabeçalhos, listas e espaçamento apropriado para fácil leitura e compatibilidade com editores Markdown:
+
 
 ---
 
