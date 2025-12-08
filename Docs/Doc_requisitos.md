@@ -200,7 +200,7 @@ N/A
 | 27/10 | Implementação funcional mínima da API               |
 | 17/11 | Implementação da API para acesso à base de dados    |
 | 24/11 | Testes com usuários (professor e graduandos)        |
-| 15/12 | Entrega da versão com API e Documentação do Projeto |
+| 08/12 | Entrega da versão com API e Documentação do Projeto |
 
 ### 7.2. Dependências
 
